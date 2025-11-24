@@ -57,10 +57,11 @@ Clear, friendly user interface in the terminal.
 All logic handled in a single Python file for easy understanding.
 
 Requirements
-Python 3.x
+Python 3.13
 
 License
-This project is provided for educational use. You may modify and share it freely.
+This project is provided for educational use. 
+Made by Avika Gour
 
 
 
